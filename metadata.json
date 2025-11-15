@@ -1,0 +1,5 @@
+{
+  "name": "FableWeaver",
+  "description": "An interactive AI storytelling companion that brings stories to life with text continuation, narration, and illustrations using Gemini 2.5.",
+  "requestFramePermissions": []
+}
